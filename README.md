@@ -1,7 +1,4 @@
 ## ⚡ Actively building cool shit 👋
 
-## Streak 🔥
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=admica&theme=dark&border_radius=4.2)](https://git.io/streak-stats)
-
-## Github Stats ☀
+[![GitHub Streak](https://streak-stats.demolab.com/?user=admica&theme=dark)](https://git.io/streak-stats)
 ![Admica's GitHub stats](https://github-readme-stats.vercel.app/api?username=admica&show_icons=true&theme=transparent)
