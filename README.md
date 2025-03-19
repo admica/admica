@@ -1,5 +1,5 @@
 ## Streak 🔥
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=admica&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=admica&theme=dark)](https://git.io/streak-stats)
 
 ## Hi there 👋
 
