@@ -1,3 +1,6 @@
+## Streak 🔥
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=admica&theme=radical)
+
 ## Hi there 👋
 
 <!--
