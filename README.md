@@ -1,7 +1,7 @@
+## I’m active and I build cool shit 👋
+
 ## Streak 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=admica&theme=dark)](https://git.io/streak-stats)
-
-## Hi there 👋
 
 <!--
 **admica/admica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
